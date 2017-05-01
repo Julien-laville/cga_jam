@@ -1,0 +1,27 @@
+{
+  "name": "cga_tower_defense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intex.html",
+  "scripts": {
+    "start" : "http-server -c-1",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-laville/cga_jam.git"
+  },
+  "keywords": [
+    "tower",
+    "defense",
+    "cga",
+    "retro",
+    "jam"
+  ],
+  "author": "julien-laville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julien-laville/cga_jam/issues"
+  },
+  "homepage": "https://github.com/Julien-laville/cga_jam#readme"
+}
